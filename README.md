@@ -14,5 +14,5 @@ Run 'npm i' from the console to install the npm dependencies.
 Made by Alvin Badillo🙉
 
 ## Video link of Social-Network-API in action
-[Working Social-Network-API](https://drive.google.com/file/d/13q7YPplGCXuCe2q1pesOg5oZYiImHjqU/view)
+[Social-Network-API](https://drive.google.com/file/d/13q7YPplGCXuCe2q1pesOg5oZYiImHjqU/view)
 
